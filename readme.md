@@ -1,5 +1,5 @@
 # LEGNN
-This is the implementation of LEGNN.
+This is the implementation of Label Ensemble Perspective for Reduced-Complexity Graph Node Classification under Label Noise .
 
 ## Requirements
 python 3.9.16\
